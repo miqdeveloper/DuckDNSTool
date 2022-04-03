@@ -1,0 +1,10 @@
+{
+
+	"token" : "d011b19c-002d-4e31-9ea5-11a0b3818f24",
+	"host" : "calango-23122.portmap.io",
+	"domain": "servicesinf0.duckdns.org",
+	"port_map" : 23122,
+	"local_port": 8888
+	
+
+}
